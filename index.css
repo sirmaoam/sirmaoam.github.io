@@ -6,3 +6,13 @@ h1 {
 color: #E27D60;
 text-align: center;
 }
+assign {
+display: flex;
+padding: 10px;
+margin: 10px;
+background: #41B3A3;
+}
+.assign img {
+width: 200px;
+padding: 10px;
+}
